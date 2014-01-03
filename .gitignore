@@ -1,0 +1,10 @@
+*.[oa]
+!*.out
+*~
+*.exe
+*.bak
+*.dcu
+*.ddp
+*.rar
+build/
+backup/
